@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  nextjs,
 } from "../assets";
 
 export const navLinks = [
@@ -112,6 +113,11 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
+  {
+    name: "Next js",
+    icon: nextjs,
+  },
+  
 ];
 
 const experiences = [
